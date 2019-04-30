@@ -1,2 +1,7 @@
 # hello-world
-test
+Hi!!
+
+I'm Koji.
+I'm in Japan.
+
+
